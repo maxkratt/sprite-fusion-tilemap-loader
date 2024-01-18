@@ -14,4 +14,4 @@ displays = spriteFusionImporter.createTileDisplays("map.json", "spritesheet.png"
 displays[0].install 5
 ```
 
-There is an example folder that contains an exported tilemap and loads it into MiniMicro with the [example.ms](https://github.com/maxkratt/sprite-fusion-tilemap-loader/blob/main/example/example.ms) script. The original tilemap file is also included.
+There is an example folder that contains an exported tilemap and loads it into MiniMicro with the [example.ms](https://github.com/maxkratt/sprite-fusion-tilemap-loader/blob/main/example/example.ms) script. The original tilemap file is also included. The example tileset is created by [stealthix](https://twitter.com/stealthix_dev) and released under the [CC0 license](https://creativecommons.org/public-domain/cc0/)
